@@ -1,0 +1,5 @@
+This project involves a robot simulation that learns to pick up empty cans in his world (a 10x10 grid that is randomly populated with empty cans)
+
+The robot learns via reinforcement learning (rewards and punishments)
+
+
